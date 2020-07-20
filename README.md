@@ -1,1 +1,1 @@
-simple chat bot
+Simple Chat Bot
