@@ -1,2 +1,2 @@
 Simple Chat Bot
-![](Simple Chatty Bot.gif)
+![](Simple_Chatty_Bot.gif)
